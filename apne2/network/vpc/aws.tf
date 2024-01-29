@@ -17,5 +17,5 @@ variable "region" {
 }
  
 variable "profile" {
-  default = "Suwoong-admin"
+  default = "Suwoong-TFC-Test"
 }
